@@ -1,6 +1,5 @@
 # Name It
-
-A very cooooooool project!!
+NameIt is a react website which can predict unique names of the domain for you based on the keywords searched.
 
 ## Resources
 
